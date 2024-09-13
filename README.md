@@ -46,14 +46,8 @@ Efficient_Frontier_MPT/
 ├── config.yaml
 ├── README.md
 ├── utils/
-│   ├── __init__.py
-│   ├── data_processing.py
-│   ├── optimization.py
-│   └── visualization.py
-└── tests/
-    ├── __init__.py
-    ├── test_data_processing.py
-    ├── test_optimization.py
-    └── test_visualization.py
-
+  ├── __init__.py
+  ├── data_processing.py
+  ├── optimization.py
+  └── visualization.py
 
